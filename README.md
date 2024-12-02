@@ -1,6 +1,6 @@
 # MIST-4610-Group-3-Assignment-2
 
-Ryan Lochman, Ethan Hughes, Reid Huels
+Ryan Lochman, Ethan Hughes, Reid Huels, Joe Gainer, Brooks Hess
 
 
 Our data set covers the wagers placed at three different sports books in Connecticut over a three-year period (October 2021 – September 2024). The data set gives us details about these three books, including patron winnings, total amount placed, number of wagers, and gaming revenue all on a monthly basis. This data set allows us to track the performance of each of these firms over the past three years and allows us to compare them to each other, showcasing the firm that receives the most wagers, and therefore makes the most in monthly revenue.
