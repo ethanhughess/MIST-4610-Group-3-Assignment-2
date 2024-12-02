@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a92d0ce4-bffe-432d-a166-ef50d295a2c4)# MIST-4610-Group-3-Assignment-2
+# MIST-4610-Group-3-Assignment-2
 
 Ryan Lochman, Ethan Hughes, Reid Huels
 
@@ -31,5 +31,7 @@ Explanation for Visualization #2:
 
 In our second visualization, we showcase the comparison between promotional coupons and total gross gaming revenue. We see an obvious correlation between promotions given out and gross gaming revenue for Mohegan Digital LLC and MPI Master Wagering License, showing that the promotions they are putting out do affect the gross revenue for that month. CT Lottery Corp, on the other hand, shows that their promotions may not be affecting their client base as they hoped they would, and may need to adjust their approach to increase gross revenue.
 
-Conclusion
+Conclusion:
+
+In conclusion, we believe our two questions are critical ones to ask for these three gambling firms, and with the answers we can compare and contrast three large firms in Connecticut. Through our visualizations, we can infer that CT Lottery Corp is the smallest of the three, bringing in the lowest gross revenue on a monthly basis, as well as providing the least amount of promotional coupons to their customers. For the other two, we see a high correlation between promotional coupons and gross revenue, indicating highly productive promotions. Overall, the three firms that we analyzed continue to grow as the gambling sector grows at a high rate. We expect revenues as well as coupons to continue to increase for all three.
 
